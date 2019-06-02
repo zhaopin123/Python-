@@ -1,2 +1,2 @@
-##Python学习30天<br>
+##Python学习30天
 [day1 进制](pythonBasicLearingdDay30/day_1.md)
